@@ -1,0 +1,4 @@
+Mehemmed - Navbar
+Leyla - Hero content
+Davud - Main part
+Ilham - Footer
